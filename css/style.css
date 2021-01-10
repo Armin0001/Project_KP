@@ -1,0 +1,19 @@
+.top {
+  margin-top: 235px;
+}
+.img1 {
+  width: 50%;
+}
+.row {
+  margin: 0
+}
+html {
+	scroll-behavior: smooth;
+}
+.no-padding {
+    padding: 0px;
+}
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+}
